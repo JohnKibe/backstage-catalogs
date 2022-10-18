@@ -4,7 +4,8 @@ metadata:
   name: cellulant-banebp
   description: An example of a Backstage application.
     annotations:
-      'backstage.io/kubernetes-id': banebp
+      github.com/project-slug: JohnKibe/backstage-catalogs
+      backstage.io/kubernetes-id: banebp
   # Example for optional annotations
   # annotations:
   #   github.com/project-slug: backstage/backstage
